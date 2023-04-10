@@ -6,7 +6,6 @@
 
 - I'm based in the United Kingdom
 - I'm a native English speaker and have intermediate knowledge of Spanish and Chinese
-- I'm the maintainer team manager and an active maintainer for Colonial Marines Space Station 13, one of the most popular Space Station 13 servers.
 - I can be reached on discord via ꌋꄣꆏꆽ#9467
 
 <!--
