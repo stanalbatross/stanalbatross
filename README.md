@@ -6,7 +6,7 @@
 
 - I'm based in the United Kingdom
 - I'm a native English speaker and have intermediate knowledge of Spanish and Chinese
-- I can be reached on discord via ꌋꄣꆏꆽ#9467
+- I can be reached on discord via @stan_albatross
 
 <!--
 **stanalbatross/stanalbatross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
