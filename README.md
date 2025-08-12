@@ -1,11 +1,9 @@
-### ꋬꂻꈨꅪ! 👋
-
-ꉢꆈꌠꉙꀋꈜꐙꄏ。
+### ياخشىمۇسىز! 👋
 
 ## About me
 
 - I'm based in the United Kingdom
-- I'm a native English speaker and have intermediate knowledge of Spanish and Chinese
+- I'm a native English speaker and am fluent in Chinese. Also speak some Uyghur and Spanish.
 - I can be reached on discord via @stan_albatross
 
 <!--
